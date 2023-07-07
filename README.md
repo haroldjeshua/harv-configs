@@ -17,6 +17,7 @@ See more [Oh My Zsh Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 
 ### Oh My Zsh Plugins
 [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
+
 [syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 
 ### Node + Node.js with NVM
@@ -34,6 +35,9 @@ npm -v
 
 ## windows env setup
 [wsl setup guide](https://fireship.io/lessons/windows-10-for-web-dev/)
+
 [wt themes](https://windowsterminalthemes.dev/)
+
 [oh my posh](https://ohmyposh.dev/)
+
 [nerd fonts](https://github.com/ryanoasis/nerd-fonts/)
