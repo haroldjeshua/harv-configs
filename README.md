@@ -41,3 +41,6 @@ npm -v
 [oh my posh](https://ohmyposh.dev/)
 
 [nerd fonts](https://github.com/ryanoasis/nerd-fonts/)
+
+install:
+[nvm](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
