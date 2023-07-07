@@ -34,3 +34,6 @@ npm -v
 
 ## windows env setup
 [wsl setup guide](https://fireship.io/lessons/windows-10-for-web-dev/)
+[wt themes](https://windowsterminalthemes.dev/)
+[oh my posh](https://ohmyposh.dev/)
+[nerd fonts](https://github.com/ryanoasis/nerd-fonts/)
